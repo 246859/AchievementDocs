@@ -1,0 +1,2 @@
+# AchievementPage
+static achievement page
